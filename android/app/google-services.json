@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628244282678",
+    "project_id": "new-cloud-37958",
+    "storage_bucket": "new-cloud-37958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628244282678:android:0d3fc14af552e3a8b64797",
+        "android_client_info": {
+          "package_name": "com.example.newcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628244282678-33m3pc0p11ag64d1j71cspia8gb2u8g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsA3aDZH8O37lYS4AihmiU4LVntkWqem0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628244282678-33m3pc0p11ag64d1j71cspia8gb2u8g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
